@@ -22,7 +22,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://dk3.in/" className={styles.card} target="_blank">
+          <a
+            href="https://dk3.in/"
+            rel="noopener noreferrer"
+            className={styles.card}
+            target="_blank"
+          >
             <h2>dk3 &rarr;</h2>
             <p>
               This Fake Shopping website has fake listing and scams users via
@@ -32,6 +37,7 @@ export default function Home() {
 
           <a
             href="https://crazylady.in/"
+            rel="noopener noreferrer"
             className={styles.card}
             target="_blank"
           >
