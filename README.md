@@ -2,7 +2,7 @@
 ## Flagging Scam Websites and Accounts on the internet.
  
 
-There are many websites on the internet that are scamming new and naive users by creating fake listings and the user make the payment online hoping they would recieve the products they have bought.
+There are many websites on the internet that are scamming new and naive users by creating fake listings and the user make the payment online hoping they would receive the products they have bought.
  
  I tried to report the website on Cyber Crime Portal but you cannot file a complaint unless you have been scammed. 
  
